@@ -1,5 +1,5 @@
 {
-  "name": "non-federated",
+  "name": "ab-test-poc",
   "version": "1.0.0",
   "private": true,
   "workspaces": [
