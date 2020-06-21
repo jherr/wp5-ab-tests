@@ -35,7 +35,6 @@ module.exports = {
       },
       exposes: {
         "./VariantChooser": "./src/VariantChooser",
-        "./chooseVariant": "./src/chooseVariant",
         "./variants": "./src/variants",
       },
       shared: require("./package.json").dependencies,
